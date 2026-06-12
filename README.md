@@ -51,6 +51,9 @@ The following transformations were performed in Snowflake:
 ```text
 CSV Dataset → AWS S3 → Snowflake → SQL Transformations → Tableau Dashboard
 ```
+## Dashboard Preview
+
+![Dashboard Preview](Renewable_Energy_Dashboard.png)
 
 ## Tableau Public Dashboard
 
